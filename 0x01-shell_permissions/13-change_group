@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 chgrp school hello
-=======
-#!/bin/bash
-chgrp school hello
->>>>>>> 295b2a5aef745c53e1d11b9c217713e0b6162123
