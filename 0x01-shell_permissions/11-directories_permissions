@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 mkdir dir_holberton -m=751
+=======
+#!/bin/bash
+mkdir dir_holberton -m=751
+>>>>>>> 295b2a5aef745c53e1d11b9c217713e0b6162123
