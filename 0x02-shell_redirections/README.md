@@ -1,1 +1,1 @@
-script which execute shell redirection
+#!/bin/bash
