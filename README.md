@@ -1,1 +1,1 @@
-Hi
+A directory is created

@@ -1,1 +1,1 @@
-this script will excute permission on shell
+This is git permission assignments

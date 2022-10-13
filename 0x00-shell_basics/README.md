@@ -1,1 +1,1 @@
-script that exceutes all the tasks
+Exe files are setted
